@@ -1,17 +1,19 @@
 {
-  "name": "gng-snap",
-  "version": "1.0.1",
-  "scripts": {
-    "build:exe": "electron-builder"
-  },
-  "build": {
-    "appId": "io.gngstudio.gngsnap",
-    "publish": [
-      {
-        "provider": "github",
-        "owner": "GNGStudio",
-        "repo": "GNG-Snap"
-      }
-    ]
-  }
+    "plugin_name": "gng-snap",
+    "version": "1.0.1",
+    "download_url": "https://raw.githubusercontent.com/GnG-Studio/GnG-Update-Auto/refs/heads/main/gg_auto_layout_update.rbz",
+    "release_notes": [     
+    "English:",   
+    "- Added the option to press and hold the Ctrl key and press the Xclip button (Ctrl + Xclip) to create a new scene, not update the current scene, instead of enabling [Add New Scene] in Xclip Settings.",
+    "- Fixed a bug where a scene without a scale would draw an ultra-fine outline, leading to slow performance and lag.",
+    "- Added the ability to copy/paste Xclip storyboards to other storyboards if they are the same, to synchronize the frame.",
+    "- Updated the settings to allow or disallow drawing Xclip frames in Xclip Settings.",
+        
+    "======================================",
+    "Tiếng Việt:",   
+    "- Bổ sung thao tác bấm giữ phím Ctrl và bấm nút Xclip (Ctrl + Xclip) sẽ tạo scene mới, không cập nhật scene hiện tại thay cho cài đặt bật [Add New Scene] trong Xclip Setting",
+    "– Sữa lỗi khi scene chưa được gán tỷ lệ sẽ vẽ nét bao siêu mịn dẫn đến việc chậm và giật lag.",
+    "- Thêm chức năng copy/paste Xclip phân cảnh qua các phân cảnh khác nếu giống nhau, để đồng bộ khung.",
+    "- Cập nhật cài đặt cho phép vẽ khung Xclip hoặc không vẽ trong Xclip Setting."
+  ]
 }
