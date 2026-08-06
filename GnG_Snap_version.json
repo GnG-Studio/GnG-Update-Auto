@@ -1,0 +1,17 @@
+{
+  "name": "gng-snap",
+  "version": "1.0.1",
+  "scripts": {
+    "build:exe": "electron-builder"
+  },
+  "build": {
+    "appId": "io.gngstudio.gngsnap",
+    "publish": [
+      {
+        "provider": "github",
+        "owner": "GNGStudio",
+        "repo": "GNG-Snap"
+      }
+    ]
+  }
+}
