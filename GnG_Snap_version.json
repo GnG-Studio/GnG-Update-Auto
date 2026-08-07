@@ -1,7 +1,7 @@
 {
     "plugin_name": "gng-snap",
     "version": "1.0.1",
-    "download_url": "https://my.microsoftpersonalcontent.com/personal/41cb3e88cef2c8b7/_layouts/15/download.aspx?UniqueId=9360668d-0e06-4e32-8818-4721c55bf9e4&Translate=false&tempauth=v1e.eyJzaXRlaWQiOiJkYWZhNGRhNC0zZjQwLTQ2NDMtYTMyZS1kYjQyMGU1OGIzYzQiLCJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvbXkubWljcm9zb2Z0cGVyc29uYWxjb250ZW50LmNvbUA5MTg4MDQwZC02YzY3LTRjNWItYjExMi0zNmEzMDRiNjZkYWQiLCJleHAiOiIxNzg2MDc3OTYzIn0.KwWwwpD2noTU64hNpUC1jHg5vUmCQ4MaQxmNquRSXNIzAJ4GP1QJMvx8UyMskqR-NipIo6__0QmbyiiH9jbKW7oOoPrKPPbwWEcxR8AoKFAiOoWxO5tZ0oh7ywP5-fIgFtNifVhUCOVX9wzHRKQWSk80YCWqMti1jyqz4IjnJx5Fb4sZdaWjGLw-0OsSw7n2IMouXb90oq6B38KdrRtBuumWOs8n2NDnIDss5Y6gz4OBrh7yOtbODGgwGSL3__6UV_dzqvS-l2dJv6koSNIBaXLRup4_qSxgmfdzh1fdqz56ugM_5NCRCxN8qU2zmf_TvCE2pTdGwRwAl3XFYUgk5UkIACetJkKVu9xXWoeD0XJMs9qId4wgfbJqvjXXdOJdze88T3NkaNlgCzi9gTuDv9SpykvaD0wv_Adh1v5ZiyhefelD1tio_Mss-czUcZhJ4Xlj08bZzxV8IXqa0nJFoQgRkBUr_1mPWGX9JFCG9jgFsq4RBCFrgHs240L9G80id9n7nV-BbKxhiwUUpeLmWzAy-Mx_ySH5HNnQGyXvCpBwRkYXTuulhEQa6FP5Q6xCt72AOmGx2j3niUbySjLkgCqcgzJJ4Bep7yyvG9J07PA.Kb6C3cOLXOyHFx3xJxDti3xqokT-yIVGt4OHy1iljSU&ApiVersion=2.0",
+    "download_url": "https://github.com/GnG-Studio/GnG-Update-Auto/releases/download/snap-v1.0.1/GnG.Snap.Setup.1.0.1.exe",
     "release_notes": [
         "English:",
         "- Added a mini library to manage recently captured images.",
