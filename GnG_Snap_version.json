@@ -1,19 +1,19 @@
 {
     "plugin_name": "gng-snap",
-    "version": "1.0.1",
-    "download_url": "https://github.com/GnG-Studio/GnG-Update-Auto/releases/download/snap-v1.0.1/GnG.Snap.Setup.1.0.1.exe",
+    "version": "1.0.2",
+    "download_url": "https://github.com/GnG-Studio/GnG-Update-Auto/releases/download/snap-v1.0.2/GnG.Snap.Setup.1.0.2.exe",
     "release_notes": [
         "English:",
-        "- Added a mini library to manage recently captured images.",
-        "- Fixed several issues and improved drawing tools.",
-        "- Added automatic update functionality and notifications for new versions.",
-        "- Updated image storage and editing features.",
-        
+        "- Multi-language UI Support: Fixed remaining hardcoded Vietnamese buttons and labels (Capture, Record Screen, Scroll Capture, Cancel) to dynamic translations based on selected language.",
+        "- Tray Menu Synchronization: Dynamic system tray context menu updated to sync menu items, shortcuts, and language (English/Vietnamese) directly from user settings.",
+        "- Screen & Source Detection Improvements: Enhanced screen capture target detection and fallback logic for display media handling.",
+        "- UI Theme & Publisher Refinements: Improved light mode contrast for publisher info and updated Facebook link label to 'G&G Studio'.",
+
         "======================================",
         "Tiếng Việt:",
-        "- Thêm thư viện mini quản lý hình ảnh chụp gần đây.",
-        "- Sửa một số lỗi và nâng cấp các công cụ vẽ.",
-        "- Thêm chức năng tự động cập nhật và thông báo phiên bản mới.",
-        "- Cập nhật các chức năng lưu trữ hình ảnh, sửa đổi."
+        "- Hỗ trợ đa ngôn ngữ đồng bộ: Khắc phục các nút/nhãn cố định (Ghi màn hình, Chụp, Chụp cuộn, Hủy) tự động chuyển đổi giữa Tiếng Việt và Tiếng Anh theo cài đặt.",
+        "- Cập nhật Menu khay hệ thống (Tray Icon): Tự động đồng bộ các mục menu, tên phím tắt và ngôn ngữ hiển thị theo đúng cấu hình thực tế.",
+        "- Cải thiện nhận diện màn hình quay/chụp: Nâng cấp thuật toán tự động khớp Display ID / Source ID giúp chọn đúng màn hình khi khoanh vùng capture.",
+        "- Tối ưu giao diện & Thông tin phát hành: Điều chỉnh độ tương phản hiển thị ở chế độ sáng (Light Mode) và đổi tên liên kết Facebook thành 'G&G Studio'."
     ]
 }
