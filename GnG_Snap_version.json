@@ -1,7 +1,7 @@
 {
     "plugin_name": "gng-snap",
-    "version": "1.0.2",
-    "download_url": "https://github.com/GnG-Studio/GnG-Update-Auto/releases/download/snap-v1.0.2/GnG.Snap.Setup.1.0.2.exe",
+    "version": "1.0.4",
+    "download_url": "https://github.com/GnG-Studio/GnG-Update-Auto/releases/download/snap-v1.0.4/win-unpacked.zip",
     "release_notes": [
         "English:",
         "- Multi-language UI Support: Fixed remaining hardcoded Vietnamese buttons and labels (Capture, Record Screen, Scroll Capture, Cancel) to dynamic translations based on selected language.",
