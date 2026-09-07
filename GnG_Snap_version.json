@@ -1,19 +1,23 @@
 {
     "plugin_name": "gng-snap",
-    "version": "1.0.5",
-    "download_url": "https://github.com/GnG-Studio/GnG-Update-Auto/releases/download/snap-v1.0.5/win-unpacked.zip",
+    "version": "1.0.8",
+    "download_url": "https://github.com/GnG-Studio/GnG-Update-Auto/releases/download/snap-v1.0.8/win-unpacked.zip",
     "release_notes": [
         "English:",
-        "- Multi-language UI Support: Fixed remaining hardcoded Vietnamese buttons and labels (Capture, Record Screen, Scroll Capture, Cancel) to dynamic translations based on selected language.",
-        "- Tray Menu Synchronization: Dynamic system tray context menu updated to sync menu items, shortcuts, and language (English/Vietnamese) directly from user settings.",
-        "- Screen & Source Detection Improvements: Enhanced screen capture target detection and fallback logic for display media handling.",
-        "- UI Theme & Publisher Refinements: Improved light mode contrast for publisher info and updated Facebook link label to 'G&G Studio'.",
+        "- Image & Canvas Resize Tool: Easily resize your images or canvas by pixel dimensions or percentages with aspect ratio lock to prevent distortion. Annotations and drawings scale automatically.",
+        "- Standard Size Presets: Quick-select popular formats (Full HD, 4K, Social Story 9:16, Banner, Avatar) or use instant percentage buttons (50%, 75%, 200%).",
+        "- Automatic Memory (RAM) Release: Automatically clears temporary memory after 2 minutes of inactivity post-task, or immediately when the window is minimized or the screen is locked.",
+        "- Manual RAM Cleaner: Added a 'Free RAM Now' button in Settings to instantly optimize memory whenever needed.",
+        "- In-Editor Hotkeys Cheat Sheet: Quick reference guide for editor keyboard shortcuts added to Settings (e.g. Ctrl+Alt+I for Resize).",
+        "- UI & Performance Improvements: Cleaner dark theme layout and smoother canvas operations when editing multiple images.",
 
         "======================================",
         "Tiếng Việt:",
-        "- Hỗ trợ đa ngôn ngữ đồng bộ: Khắc phục các nút/nhãn cố định (Ghi màn hình, Chụp, Chụp cuộn, Hủy) tự động chuyển đổi giữa Tiếng Việt và Tiếng Anh theo cài đặt.",
-        "- Cập nhật Menu khay hệ thống (Tray Icon): Tự động đồng bộ các mục menu, tên phím tắt và ngôn ngữ hiển thị theo đúng cấu hình thực tế.",
-        "- Cải thiện nhận diện màn hình quay/chụp: Nâng cấp thuật toán tự động khớp Display ID / Source ID giúp chọn đúng màn hình khi khoanh vùng capture.",
-        "- Tối ưu giao diện & Thông tin phát hành: Điều chỉnh độ tương phản hiển thị ở chế độ sáng (Light Mode) và đổi tên liên kết Facebook thành 'G&G Studio'."
+        "- Đổi kích thước ảnh & Khung vẽ (Resize): Dễ dàng phóng to, thu nhỏ ảnh theo pixel hoặc phần trăm. Tự động giữ tỉ lệ tránh méo ảnh và tự co giãn các nét vẽ, chữ viết theo cỡ ảnh mới.",
+        "- Kích thước mẫu thông dụng: Chọn nhanh các cỡ ảnh phổ biến (Full HD, 4K, Story điện thoại, Banner, Avatar) hoặc chọn tỉ lệ % nhanh (50%, 75%, 200%).",
+        "- Tự động giải phóng bộ nhớ (RAM): Tự động dọn dẹp bộ nhớ đệm sau 2 phút không dùng, hoặc ngay khi thu nhỏ cửa sổ và khóa màn hình máy tính.",
+        "- Nút dọn RAM chủ động: Bổ sung nút 'Giải Phóng RAM Ngay' trong mục Cài đặt để bạn tối ưu tốc độ máy bất kỳ lúc nào.",
+        "- Bảng tra cứu phím tắt: Thêm danh sách phím tắt chỉnh sửa ảnh nhanh trong Cài đặt (nhấn Ctrl+Alt+I để mở đổi kích thước ảnh).",
+        "- Cải tiến giao diện & Tốc độ: Tinh chỉnh giao diện tối dịu mắt hơn, ứng dụng hoạt động mượt mà và nhẹ máy hơn khi làm việc liên tục."
     ]
 }
